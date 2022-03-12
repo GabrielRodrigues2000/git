@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Nova versão 2
+=======
+Gabriel 007
+>>>>>>> TESTE

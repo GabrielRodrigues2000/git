@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Nova versão
+=======
+Gabriel Rodrigues
+>>>>>>> TESTE
